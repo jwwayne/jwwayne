@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jwwayne
-- 👀 I’m interested in swarm simulations and CNNS
+- 👀 I’m interested in swarm simulations and CNNs
 - 🌱 I’m currently learning DQN applications
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me: shoot me an email
